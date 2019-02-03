@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/dmytrodmytrenko/PycharmProjects/The_Python_Mega_Course/Application_5_Desctop_DB_App/dist/frontend',
+   'EXECUTABLE')],)
